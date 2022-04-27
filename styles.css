@@ -1,0 +1,15 @@
+.h1 {
+    display: flex;
+    color: black;
+    text-align: left; 
+    font-size: xx-large;
+    display: inline;
+}
+
+.span {
+    display: flex;
+    flex-direction: row;
+    color: black;
+    float: right;
+    font-size: large;
+}
